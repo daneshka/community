@@ -1,6 +1,13 @@
 ---
 title: Use surge upgrades to decrease disruptions from GKE node upgrades
 description: Run a sample application and measure its error rate to learn how surge upgrades reduce disruption caused by GKE node upgrades.
+
+
+
+
+
+
+
 author: tamasr
 tags: GKE, upgrade, node, surge upgrade
 date_published: 2020-02-12
